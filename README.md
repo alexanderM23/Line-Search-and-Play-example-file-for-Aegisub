@@ -28,8 +28,6 @@
 #### 10*1[subtitle folder's name] (with *.ass file in it)
 #### 	ǁ		          			ǁ
 #### 	ǁ				   			    ╚ ▬ ▬ Link to folder
-#### 	ǁ
-#### 	ǁ
 ####  ╚ ▬ script
 #### 			ǁ
 #### 			╚ ▬ ▬ file name (with high and percent) *.ahk
