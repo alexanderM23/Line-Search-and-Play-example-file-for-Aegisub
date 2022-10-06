@@ -4,7 +4,7 @@
 #### This is Autohotkey script, that allows you to play lines in  
 #### Aegisub subtitle player program.
 #### This script works fine for Monitor size = 1920 x 1080, and for Video file with High size = 720 pixels.
-#### (For another Monitor size and Video file High size please use Autohotkey's Tool - Window Spy, to adjust the MouseClick's coordinates shown below.)
+#### (For another Monitor size and Video file High size please use Autohotkey's Tool - Window Spy, to adjust the MouseClick's coordinates shown in script.)
 #### 
 #### The main idea of script is:
 #### You just Play the video's 'lines' - forward and backward, for your convenience. Doing so, you are doing the #### Search of line's Number that you need to find.
