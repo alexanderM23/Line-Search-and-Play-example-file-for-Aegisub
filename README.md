@@ -2,7 +2,7 @@
 #### You can use it for creation of Search base / Library 
 #### of your Video in the Production. It's just for - not to get confused 
 #### for anyone in the 'wave' of information, that you might create. 
-#### Because the information you are creating could "float" and be repeated, 
+#### Because the information you are creating could 'float' and be repeated, 
 #### from one video to another.
 #### .
 #### Part 1. Description
