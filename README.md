@@ -1,5 +1,4 @@
-# Line Search and Play example file for Aegisub program (plus some more 
-tips).
+# Line Search and Play example file for Aegisub program (plus some more tips).
 
 #### This example shows how it is possible to use the Autohotkey and 
 #### Mindmap files for creation of 'not complex' Search Library of your 
